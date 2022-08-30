@@ -1,0 +1,14 @@
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+C:\Users\StanislavStoev\source\repos\DayOfWeek\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache
